@@ -5,11 +5,11 @@
 <a href="#"><img title="Kurumbi" src="https://img.shields.io/badge/Kurumbi-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prabithkuttu"><img title="Author" src="https://img.shields.io/badge/Author-saidali/Kurumbi?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/prabithkuttu"><img title="Author" src="https://img.shields.io/badge/Author-Devil/Kurumbi?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
+Project created by <a href="https://github.com/prabithkuttu">Devil</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/saidalisaid2/Kurumbi">
+  <a href="https://github.com/prabithkuttu/Kurumbi">
     <img src="https://img.shields.io/github/repo-size/prabithkuttu/Kurumbi?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
