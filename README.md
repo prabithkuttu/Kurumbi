@@ -5,7 +5,7 @@
 <a href="#"><img title="Kurumbi" src="https://img.shields.io/badge/Kurumbi-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/Kurumbi?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/prabithkuttu"><img title="Author" src="https://img.shields.io/badge/Author-saidali/Kurumbi?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
 
   <p align="center">
   <a href="https://github.com/saidalisaid2/Kurumbi">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/Kurumbi?color=green&label=Repo%20total%20size&style=italic">
+    <img src="https://img.shields.io/github/repo-size/prabithkuttu/Kurumbi?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Devil](https://github.com/prabithkuttu.png?size=100)](https://github.com/prabithkuttu) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Saidali](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[Devil](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/prabithkuttu) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
