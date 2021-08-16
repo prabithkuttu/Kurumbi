@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/8382372?v=4" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kurumbi" src="https://img.shields.io/badge/Kurumbi-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
@@ -19,8 +19,8 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
+  <a href="https://github.com/saidalisaid2/Kurumbi">
+    <img src="https://img.shields.io/github/repo-size/saidalisaid2/Kurumbi?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/LiyaMol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabithkuttu/Kurumbi)
      </div>
 <br>
 <br >
