@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *LiyaMol*:  ```" + msg + "```"
+    return "✅ *Kurumbi*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *LiyaMol*:  ```" + msg + "```"
+    return "🛑 *Kurumbi*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *LiyaMol*:  ```" + msg + "```"
+    return "⏺️ *Kurumbi*:  ```" + msg + "```"
 }
 
 
